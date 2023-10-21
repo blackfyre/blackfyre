@@ -2,8 +2,6 @@
 
 [![An image of @blackfyre's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/blackfyre)](https://holopin.io/@blackfyre)
 
-[![Coders rank stats]https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=blackfyre
-
 [![An image of @blackfyre's Codersrank stats, which is a link to view their full Codersrank profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=blackfyre)](https://profile.codersrank.io/user/blackfyre/)
 
  <!--
