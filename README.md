@@ -2,8 +2,10 @@
 
 [![An image of @blackfyre's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/blackfyre)](https://holopin.io/@blackfyre)
 
-[!](
-https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=blackfyre) <!--
+[![Coders rank stats]](
+https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=blackfyre)
+
+ <!--
 **blackfyre/blackfyre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
