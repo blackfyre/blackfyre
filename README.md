@@ -29,18 +29,8 @@ I've been a doing web development since the late 90s...
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=blackfyre&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=blackfyre&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight)
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/blackfyre/wga" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=blackfyre&repo=wga&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+[![An image of @blackfyre's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/blackfyre)](https://holopin.io/@blackfyre)
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/blackfyre"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
-
-[![An image of @blackfyre's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/blackfyre)](https://holopin.io/@blackfyre)
-
-[![An image of @blackfyre's Codersrank stats, which is a link to view their full Codersrank profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=blackfyre)](https://profile.codersrank.io/user/blackfyre/)
+<a href="https://www.ko-fi.com/blackfyre"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
