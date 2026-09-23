@@ -27,9 +27,7 @@ I've been a doing web development since the late 90s...
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/blackfyre"><img src="https://github-readme-stats.vercel.app/api?username=blackfyre&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="blackfyre's GitHub stats" /></a>
-
-<a href="https://github.com/blackfyre" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackfyre&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=blackfyre&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=blackfyre&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=tokyonight)
 
 <b>Top Repositories</b>
 
